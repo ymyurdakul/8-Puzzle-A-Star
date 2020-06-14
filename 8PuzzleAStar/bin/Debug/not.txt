@@ -1,0 +1,7 @@
+Hocam node sayısının fazla olduğu yerlerde
+muhtemelen uzuca süre sizi bekletecektir.
+Form üzerindeki Oto . Doldur butonlarına
+tıklayarak matrisleri alırsanız bu matrisler 
+5000 node altında çözüldüğü için daha hızlı cevap vermekte.
+Tasarım ve kodlama bana aittir.
+Mustafa Yurdakul
